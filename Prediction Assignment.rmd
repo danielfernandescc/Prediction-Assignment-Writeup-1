@@ -2,7 +2,9 @@
 title: "Prediction Assignment Writeup"
 author: "Johnnery Aldana"
 date: "15/3/2020"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 # Introduction
 
